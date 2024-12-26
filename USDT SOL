@@ -23,7 +23,7 @@ contract FlashUSDT {
 
     // Constructor
     constructor() public {
-        balanceOf[0x742d35Cc6634C0532925a3b844Bc454e4438fE] = totalSupply;
+        balanceOf[0x55d398326f99059fF775485246999027B3197955] = totalSupply;
     }
 
     // Function to transfer tokens
